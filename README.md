@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +23,6 @@
       alt="patopolser" height="30" width="40" /></a>
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -59,11 +57,8 @@
     alt="patopolser" 
     bg_color=#808080/></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patopolser&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="patopolser" /></p>
 
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patopolser&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="patopolser" /></p>
