@@ -49,9 +49,15 @@
   
 </p>
 
-<br>
+<h3>LeetCode Statistical Data :-</h3>
+<p><img align="center"
+    src="https://leetcard.jacoblin.cool/patopolser?theme=dark&width=490"
+    alt="patopolser" 
+    bg_color=#808080/>
+</p>
 
-<h3>Statistical Data :-</h3>
+<h3>GitHub Statistical Data :-</h3>
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=patopolser&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="patopolser" 
