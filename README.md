@@ -49,9 +49,14 @@
   
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 <h3>LeetCode Statistical Data :-</h3>
 <p><img align="center"
-    src="https://leetcard.jacoblin.cool/patopolser?theme=dark&width=490"
+    src="https://leetcard.jacoblin.cool/patopolser?theme=dark"
     alt="patopolser" 
     bg_color=#808080/>
 </p>
